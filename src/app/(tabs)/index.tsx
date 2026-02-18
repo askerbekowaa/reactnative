@@ -30,7 +30,7 @@ export default function HomeScreen() {
         <Text style={styles.course}>React Native Course</Text>
 
         <TouchableOpacity style={styles.button}>
-          <Text style={styles.buttonText}>ЗАПИСАТЬСЯ НА КУРС</Text>
+          <Text style={styles.buttonText}>Записаться на курс</Text>
         </TouchableOpacity>
 
         <StudentCard
