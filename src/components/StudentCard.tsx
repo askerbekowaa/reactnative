@@ -53,7 +53,7 @@ const styles = StyleSheet.create({
   },
 
   likeButton: {
-    backgroundColor: "#3b82f6",
+    backgroundColor: "#18663b",
     paddingVertical: 10,
     paddingHorizontal: 20,
     borderRadius: 20,
